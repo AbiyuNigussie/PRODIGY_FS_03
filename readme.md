@@ -7,7 +7,7 @@ This project is an **E-commerce Website** built for **KOBA Patisserie and Bakery
 Technologies used:
 
 - **Backend**: .NET 6, Entity Framework Core, SQLite, Swagger
-- **Frontend**: React, Axios, Daisy UI, Context API
+- **Frontend**: React, Axios, Material UI, Context API
 
 ---
 
@@ -23,7 +23,6 @@ Technologies used:
 - [API Documentation](#api-documentation)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -57,7 +56,7 @@ Technologies used:
 - **React**: JavaScript library for building user interfaces.
 - **Context API**: For state management across the application.
 - **Axios**: For making HTTP requests to the backend API.
-- **Daisy UI**: Tailwind CSS components for building a responsive UI.
+- **Material UI**: UI Library for building a responsive UI.
 
 ---
 
