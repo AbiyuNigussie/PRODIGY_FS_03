@@ -161,6 +161,14 @@ Use this to explore and test the available API endpoints, including user authent
 
 ![Shopping Cart Screenshot](screenshots/cart_page.png)
 
+### Register Page
+
+![Register Screenshot](screenshots/signup_page.png)
+
+### Signin Page
+
+![signin Page Screenshot](screenshots/login_page.png)
+
 ### Swagger API
 
 ![Swagger API Screenshot](screenshots/swagger_api.png)
